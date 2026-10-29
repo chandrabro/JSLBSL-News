@@ -1,4 +1,4 @@
-# जनउत्थान सामुदायिक लघुवित्त — News Website
+# जनउत्थान सामुदायिक लघुवित्त — News Website  this is news website
 
 Modern, responsive (mobile + desktop) news & notice website with a password‑protected
 **/admin** panel. News added in `/admin` appears on the public site immediately.
